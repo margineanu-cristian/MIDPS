@@ -1,8 +1,11 @@
 body {
-	background-color: yellow;
+	background-color: blue;
 	text-align-last: center;
 	size: 80px;
 }
 p{
 	color: green;
+}
+h2 {
+	color: red;
 }
