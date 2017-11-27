@@ -1,0 +1,20 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+<title>Windows 8 </title>
+<link rel="stylesheet" type="text/css" href="C:\Users\CriStiaN\Desktop\site\style.css">
+</head>
+<body>
+
+<div class="menu_ihtut_net">
+	<div id="menu_ihtut_net">
+		<a href="index.html">Principal</a>
+		<a href="instalarea.html">Instalarea</a>
+		<a href="#">Contacte</a>
+		<a href="#">new </a>
+		<a href="#">Как нас найти</a>
+	</div>
+</div>
+
+</body>
+</html>
